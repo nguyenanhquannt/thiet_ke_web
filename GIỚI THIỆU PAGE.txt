@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+
+<h1><u> VỰA 2ND </u></h1>
+<p> NƠI GIAO LƯU TRAO ĐỔI ĐỒ CHƠI CÔNG NGHỆ
+
+<p>😍😍😍😍😍😍😍😍</p>
+</p>
+<p>-----------------------------------------------</p>
+<p>dịch vụ</p>
+  <ol>
+     <li>trao đổi buôn bán các thiệt bị công nghệ</li>
+     <li>hỗ trợ sửa chữa các thiết bị điện tử</li>
+     <li>cung cấp các dịch vụ phần mềm</li>
+     <li>thu mua các sản phẩm không sử dụng </li>
+ </ol>
+ <img src="https://scontent.fdad1-3.fna.fbcdn.net/v/t39.30808-6/272127640_2125843864240972_5630895813061349972_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8631f5&_nc_ohc=9aUB525tMKEAX-vfg6B&_nc_ht=scontent.fdad1-3.fna&oh=00_AT9yUeXdcyzitV4GAvE1NLPFaARAb70bbklUFzPeiYk30w&oe=62554907
+ ">
+ 
+ 
+</body>
+</html>
